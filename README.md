@@ -110,3 +110,8 @@ The program is designed to run in the **CPULator** RISC-V simulator.
 assembly-project/
 └── project.asm
 ```
+
+## Documentation
+
+The project documentation is available here:  
+[`docs/پروژه CPULator.pdf`](docs/پروژه%20CPULator.pdf)
